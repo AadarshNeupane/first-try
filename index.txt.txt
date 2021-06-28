@@ -1,1 +1,5 @@
+<<<<<<< HEAD
 this is version 3.
+=======
+this is version 3.
+>>>>>>> b3faa31b95022a021d7532080e7ca51e0ae9b069
